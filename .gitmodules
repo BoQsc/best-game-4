@@ -4,3 +4,4 @@
 [submodule "game_world"]
 	path = game_world
 	url = https://github.com/BoQsc/gpu-marching-cubes
+	branch = terrain-03-further-mid-stutter-vegetation-fix
