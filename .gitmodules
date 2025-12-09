@@ -1,6 +1,3 @@
-[submodule "main_menu"]
-	path = main_menu
-	url = https://github.com/BoQsc/best-game-4-main-menu
 [submodule "game_world"]
 	path = game_world
 	url = https://github.com/BoQsc/gpu-marching-cubes
